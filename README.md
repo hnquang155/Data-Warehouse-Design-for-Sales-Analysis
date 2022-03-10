@@ -1,1 +1,2 @@
 # Data-Warehouse-Design-for-Sales-Analysis
+The project has been conducted for Data Warehouse class at S P Jain School Global Management. The project uses the Global Superstore with around 50,000 rows to design dimensional modelling by data warehouse bus architecture with five ETL model cycles for the five business processes on SQL Server. Then, OLAP cubes and pivot tables have been deployed to answer customer’ queries
